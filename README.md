@@ -1,5 +1,43 @@
 # URBICA_BOSE_SQL_ASSIGNMENT
 SQL_ASSIGNMENT_ON_AIRLINES_DATA
+
+
+👋 About This Project
+This is my first SQL project, where I explored real-world airline operational and revenue data using structured queries.
+
+I focused on developing strong SQL fundamentals by working with multiple interconnected tables, using joins, aggregations, filtering, and window functions.
+
+
+
+🛠️ Technologies Used
+Database: MySQL
+
+Tool: MySQL Workbench
+
+Language: Structured Query Language (SQL)
+
+🔍 How to Run the Queries
+Clone the repository or download the .sql files.
+
+Load the airlines_data schema into your MySQL database (if applicable).
+
+Open MySQL Workbench or your preferred SQL editor.
+
+Copy and run any of the queries provided in the scripts to explore insights.
+
+Each query answers a specific business question and is labeled for clarity.
+
+
+
+
+
+
+
+
+
+
+
+
 ✈️ Overview of Airlines Data Analysis
 We performed a wide-ranging set of analyses on the airlines_data schema to uncover operational, financial, and behavioral insights. The schema included key tables like flights, ticket_flights, tickets, bookings, boarding_passes, aircrafts, and seats.
 
