@@ -1,4 +1,9 @@
 # URBICA_BOSE_SQL_ASSIGNMENT
+
+As part of my first SQL assignment, I worked hands-on with core SQL concepts — using JOINs, WHERE filters, GROUP BY aggregations, ORDER BY sorting, and Window Functions to perform complex queries and data analysis across relational tables.
+
+
+
 SQL_ASSIGNMENT_ON_AIRLINES_DATA
 
 
