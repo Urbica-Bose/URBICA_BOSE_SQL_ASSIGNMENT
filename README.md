@@ -7,7 +7,7 @@ As part of my first SQL assignment, I worked hands-on with core SQL concepts —
 SQL_ASSIGNMENT_ON_AIRLINES_DATA
 
 
-👋 About This Project
+ About This Project
 
 
 This is my first SQL project, where I explored real-world airline operational and revenue data using structured queries.
